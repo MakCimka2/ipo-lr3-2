@@ -4,5 +4,5 @@ if b<v:
     print("Меньше" , b)
 elif b>v:
     print("Меньше", v)
-if v == b:
+else v == b:
     print("Числа равны")
